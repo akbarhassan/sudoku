@@ -1,4 +1,4 @@
 package com.ga.sudoko.controllers;
 
-public class solve {
+public class solveQuestion {
 }
